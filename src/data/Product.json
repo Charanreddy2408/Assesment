@@ -15,20 +15,20 @@
     "quantity": 100,
     "quantityPurchase": 1,
     "sizes": [
-      "S",
-      "M",
-      "L",
-      "XL"
+      "100g",
+      "200g",
+      "300g",
+      "400g"
     ],
     "variation": [
       {
-        "color": "red",
+        "color": "ginger",
         "colorCode": "#DB4444",
         "colorImage": "/images/product/color/48x48.png",
         "image": "/images/product/1000x1000.png"
       },
       {
-        "color": "yellow",
+        "color": "sugar",
         "colorCode": "#ECB018",
         "colorImage": "/images/product/color/48x48.png",
         "image": "/images/product/1000x1000.png"

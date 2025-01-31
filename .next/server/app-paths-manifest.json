@@ -1,4 +1,6 @@
 {
   "/page": "app/page.js",
-  "/shop/default/page": "app/shop/default/page.js"
+  "/shop/default/page": "app/shop/default/page.js",
+  "/product/default/page": "app/product/default/page.js",
+  "/shop/breadcrumb1/page": "app/shop/breadcrumb1/page.js"
 }

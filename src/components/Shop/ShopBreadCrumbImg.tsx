@@ -356,7 +356,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                     ))}
                                 </div>
                             </div>
-                            <div>
+                            {/* <div>
                                 <div className="filter-size">
                                     <div className="heading6">Size</div>
                                     <div className="list-size flex items-center flex-wrap gap-3 gap-y-4 mt-4">
@@ -482,7 +482,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                         </div>
                                     ))}
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="list-filtered flex items-center gap-3 mt-4">
