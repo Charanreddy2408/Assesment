@@ -1,6 +1,9 @@
 {
+  "/not-found": "app/not-found.js",
   "/page": "app/page.js",
-  "/shop/default/page": "app/shop/default/page.js",
   "/product/default/page": "app/product/default/page.js",
-  "/shop/breadcrumb1/page": "app/shop/breadcrumb1/page.js"
+  "/checkout/page": "app/checkout/page.js",
+  "/shop/default/page": "app/shop/default/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/wishlist/page": "app/wishlist/page.js"
 }

@@ -99,7 +99,7 @@ const Default: React.FC<Props> = ({ data, productId }) => {
         } else {
             updateCart(productMain.id, productMain.quantityPurchase, activeSize, activeColor)
         }
-        openModalCart()
+        openModalCart();    
     };
 
     const handleAddToWishlist = () => {

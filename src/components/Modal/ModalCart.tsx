@@ -12,6 +12,7 @@ import { countdownTime } from '../../store/countdownTime'
 import CountdownTimeType from '../../type/CountdownType';
 
 const ModalCart = ({ serverTimeLeft }: { serverTimeLeft: CountdownTimeType }) => {
+    console.log("model")
     const [timeLeft, setTimeLeft] = useState(serverTimeLeft);
 
     useEffect(() => {
