@@ -12,17 +12,17 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/shop/default/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/shop/default/page.css",
-      "static/chunks/app/shop/default/page.js"
-    ],
     "/product/default/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/product/default/page.css",
       "static/chunks/app/product/default/page.js"
+    ],
+    "/shop/default/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/shop/default/page.css",
+      "static/chunks/app/shop/default/page.js"
     ],
     "/cart/page": [
       "static/chunks/webpack.js",
@@ -33,22 +33,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/checkout/page.js"
-    ],
-    "/shop/breadcrumb1/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/shop/breadcrumb1/page.css",
-      "static/chunks/app/shop/breadcrumb1/page.js"
-    ],
-    "/wishlist/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/wishlist/page.js"
-    ],
-    "/not-found": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/not-found.js"
     ]
   }
 }
