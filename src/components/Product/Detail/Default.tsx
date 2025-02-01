@@ -10,7 +10,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Thumbs, Scrollbar } from 'swiper/modules';
 import 'swiper/css/bundle';
 import * as Icon from "@phosphor-icons/react/dist/ssr";
-import SwiperCore from 'swiper/core';
+import SwiperCore from 'swiper';
 import { useCart } from '../../../context/CartContext'
 import { useModalCartContext } from '../../../context/ModalCartContext'
 import { useWishlist } from '../../../context/WishlistContext'
